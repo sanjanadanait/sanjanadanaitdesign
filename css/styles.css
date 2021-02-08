@@ -78,11 +78,6 @@ hr {
   padding-left: 20px;
 }
 
-.navbar-brand img {
-  width: 95px;
-  height: 40px;
-}
-
 .nav-item {
   padding-right: 15px;
   color: #254a52;
@@ -421,7 +416,7 @@ video {
 
   h2 {
     font-size: 2rem;
-    padding-top: 50px;
+    padding-top: 40px;
     line-height: 2rem;
   }
 
@@ -450,7 +445,7 @@ video {
   }
 
   #navbar .container-fluid {
-    padding: 0 1% 0 1%;
+    padding: 1% 0 1% 0;
   }
 
   .navbar {
@@ -461,13 +456,8 @@ video {
     padding-left: 0;
   }
 
-  .navbar-brand img {
-    width: 125px;
-    height: 65px;
-  }
-
   .nav-link {
-    font-size: 2.5rem;
+    font-size: 3rem;
     font-family: "Montserrat";
   }
 
@@ -527,12 +517,12 @@ video {
 
   .rounded-circle {
     margin-top: 7%;
+    margin-bottom: 3%;
     width: 50%;
     height: 50%;
   }
 
   .big-heading {
-    padding-top: 30px;
     font-size: 2.5rem;
     line-height: 2.5;
     text-align: center;
@@ -579,7 +569,7 @@ video {
 
   .big-heading-2 {
     font-size: 2.5rem;
-    line-height: 3rem;
+    line-height: 3.5rem;
     padding-top: 20px;
   }
 
