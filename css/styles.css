@@ -440,9 +440,7 @@ video {
     padding: 2% 1% 0 1%;
   }
 
-  #navbar {
-    text-align: center;
-  }
+
 
   #navbar .container-fluid {
     padding: 1% 0 1% 0;
@@ -523,8 +521,8 @@ video {
   }
 
   .big-heading {
-    font-size: 2.5rem;
-    line-height: 2.5;
+    font-size: 2rem;
+    line-height: 2;
     text-align: center;
   }
 
@@ -546,7 +544,7 @@ video {
   }
 
   .separator {
-    margin: 110px auto 110px;
+    margin: 180px auto 180px;
   }
 
   .lofi-row p {
