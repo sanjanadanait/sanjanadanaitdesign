@@ -407,20 +407,20 @@ video {
   }
 
   p {
-    font-size: 1rem;
+    font-size: 2rem;
   }
 
   h2 {
-    font-size: 1rem;
+    font-size: 2rem;
     padding-top: 5px;
   }
 
   ul {
-    font-size: 1rem;
+    font-size: 2rem;
   }
 
   b {
-    font-size: 1rem;
+    font-size: 2rem;
   }
 
   hr {
@@ -466,7 +466,7 @@ video {
   }
 
   .project-title {
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: bold;
   }
 
