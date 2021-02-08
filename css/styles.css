@@ -405,7 +405,7 @@ video {
 
 /* Media queries */
 
-@media (max-width: 768px) {
+@media only screen and (min-width: 600px) {
 
   body {
     text-align: center;
