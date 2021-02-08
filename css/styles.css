@@ -407,29 +407,34 @@ video {
   }
 
   p {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   h2 {
-    font-size: 0.8rem;
+    font-size: 1rem;
     padding-top: 5px;
   }
 
   ul {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   b {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   hr {
     margin: 0 0;
   }
+  
+  #navbar .container-fluid {
+  padding: 0 1% 0 1%;
+}
 
   #navbar {
     text-align: center;
   }
+  
   .navbar {
     padding: 2px 0 2px;
   }
@@ -461,7 +466,7 @@ video {
   }
 
   .project-title {
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: bold;
   }
 
@@ -505,21 +510,21 @@ video {
   }
 
   .lofi-row p {
-    font-size: 8px;
+    font-size: 10px;
   }
 
   .hifi p {
-    font-size: 8px;
+    font-size: 10px;
   }
 
   .small-text {
-    font-size: 8px;
+    font-size: 10px;
   }
 
   /* Other-works */
 
   .big-heading-2 {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     padding-top: 20px;
   }
 
