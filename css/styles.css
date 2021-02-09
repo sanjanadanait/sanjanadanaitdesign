@@ -447,6 +447,10 @@ video {
   #navbar .container-fluid {
     padding: 1% 0 1% 0;
   }
+  
+  #navbar .container {
+    padding: 1% 0 1% 0;
+  }
 
   .navbar {
     padding: 2px 0 2px;
@@ -457,7 +461,7 @@ video {
   }
 
   .navbar img {
-    width: 170px;
+    width: 180px;
     height: 95px;
   }
 
