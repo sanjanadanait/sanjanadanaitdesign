@@ -442,26 +442,21 @@ video {
 
   #navbar ul {
    text-align: center;
-   margin-left: 0 !important;
-   margin-right: 0 !important;
  }
 
  #navbar .container-fluid {
-   padding: 1% 0 1% 0 !important;
-   margin-left: 0 !important;
-   margin-right: 0 !important;
+   padding: 0 !important;
+   margin: 0 !important;
  }
 
  #navbar .container {
-   padding: 1% 0 1% 0 !important;
-   margin-left: 0 !important;
-   margin-right: 0 !important;
+   padding: 0 !important;
+   margin: 0 !important;
  }
 
  .navbar {
    padding: 2px 0 2px !important;
-   margin-left: 0 !important;
-   margin-right: 0 !important;
+   margin: 0 !important;
  }
 
  .navbar a {
@@ -470,10 +465,11 @@ video {
 
  .navbar img {
    width: 170px;
-   height: 75px;
+   height: 70px;
  }
 
  .navbar-brand {
+   text-align: left !important;
    padding-left: 0 !important;
    margin-left: 1% !important;
    margin-right: 0 !important;
@@ -485,6 +481,7 @@ video {
  }
 
  .navbar-toggler {
+   text-align: right !important;
    padding: 1% !important;
    height: 60px;
    width: 60px;
@@ -494,6 +491,7 @@ video {
  .navbar-toggler-icon {
    height: 50px;
    width: 50px;
+   margin-right: 0 !important;
  }
 
   #title .container-fluid {
