@@ -62,7 +62,6 @@ hr {
 #navbar {
   background-color: #e1ecee;
   color: #254a52;
-  text-align: left;
 }
 
 #navbar .container-fluid {
@@ -465,7 +464,7 @@ video {
 
  .navbar img {
    width: 170px;
-   height: 70px;
+   height: 75px;
  }
 
  .navbar-brand {
