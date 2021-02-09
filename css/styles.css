@@ -455,7 +455,7 @@ video {
 
  .navbar {
    padding: 5px 0 5px !important;
-   margin: 0 !important;
+   margin: 0 0 0 2% !important;
  }
 
  .navbar img {
