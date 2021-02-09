@@ -455,8 +455,8 @@ video {
  }
 
  .navbar {
-   padding: 5px 0 5px 0 !important;
-   margin: 0 0 0 2% !important;
+   padding: 5px 0 5px 5px !important;
+   margin: 0 !important;
  }
 
  .navbar img {
@@ -485,7 +485,7 @@ video {
    padding: 1% !important;
    height: 60px;
    width: 60px;
-   margin: 0 0 0 100px !important;
+   margin: 0 5px 0 0 !important;
  }
 
  .navbar-toggler-icon {
