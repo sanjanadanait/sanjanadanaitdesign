@@ -68,6 +68,10 @@ hr {
   padding: 0 12% 0 12%;
 }
 
+.container {
+  width: 75%;
+}
+
 .navbar {
   background-color: #e1ecee;
   padding: 5px 0 5px;
@@ -449,9 +453,9 @@ video {
  }
 
 .container {
-  max-width: 100%;
    padding: 0 !important;
    margin: 0 !important;
+   width: 100%;
  }
 
  .navbar {
@@ -466,7 +470,7 @@ video {
 
  .navbar-brand {
    text-align: left !important;
-   padding-left: 0 !important;
+   padding-left: 5px !important;
    margin-left: 0 !important;
    margin-right: 0 !important;
  }
@@ -481,17 +485,16 @@ video {
  }
 
  .navbar-toggler {
-   text-align: right !important;
    padding: 1% !important;
-   height: 60px;
-   width: 60px;
-   margin: 0 5px 0 0 !important;
+   height: 65px;
+   width: 65px;
+   margin: 0 10px 0 0 !important;
  }
 
  .navbar-toggler-icon {
-   height: 50px;
-   width: 50px;
-   margin-right: 0 !important;
+   height: 45px;
+   width: 45px;
+   text-align: center;
  }
 
   #title .container-fluid {
