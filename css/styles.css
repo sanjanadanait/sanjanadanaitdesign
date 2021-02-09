@@ -451,6 +451,10 @@ video {
   .navbar {
     padding: 2px 0 2px;
   }
+  
+  .navbar a {
+    padding-left: 1%;
+  }
 
   .navbar img {
     width: 170px;
@@ -464,6 +468,10 @@ video {
   .nav-link {
     font-size: 3rem;
     font-family: "Montserrat";
+  }
+  
+  .navbar-toggler {
+    padding-right: 1%;
   }
 
 
