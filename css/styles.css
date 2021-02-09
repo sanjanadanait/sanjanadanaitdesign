@@ -442,18 +442,26 @@ video {
 
   #navbar ul {
    text-align: center;
+   margin-left: 0 !important;
+   margin-right: 0 !important;
  }
 
  #navbar .container-fluid {
    padding: 1% 0 1% 0 !important;
+   margin-left: 0 !important;
+   margin-right: 0 !important;
  }
 
  #navbar .container {
    padding: 1% 0 1% 0 !important;
+   margin-left: 0 !important;
+   margin-right: 0 !important;
  }
 
  .navbar {
    padding: 2px 0 2px !important;
+   margin-left: 0 !important;
+   margin-right: 0 !important;
  }
 
  .navbar a {
@@ -467,7 +475,8 @@ video {
 
  .navbar-brand {
    padding-left: 0 !important;
-   text-align: left !important;
+   margin-left: 0 !important;
+   margin-right: 0 !important;
  }
 
  .nav-link {
@@ -479,10 +488,11 @@ video {
    padding: 1% !important;
    height: 60px;
    width: 60px;
-   text-align: right !important;
+   margin-left: 0 !important;
+   margin-right: 0 !important;
  }
-  
-  .navbar-toggler-icon {
+
+ .navbar-toggler-icon {
    height: 50px;
    width: 50px;
  }
