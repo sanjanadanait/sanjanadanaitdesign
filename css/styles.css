@@ -470,12 +470,12 @@ video {
 
  .navbar img {
    width: 170px;
-   height: 85px;
+   height: 75px;
  }
 
  .navbar-brand {
    padding-left: 0 !important;
-   margin-left: 0 !important;
+   margin-left: 1% !important;
    margin-right: 0 !important;
  }
 
@@ -488,7 +488,6 @@ video {
    padding: 1% !important;
    height: 60px;
    width: 60px;
-   margin-left: 0 !important;
    margin-right: 0 !important;
  }
 
