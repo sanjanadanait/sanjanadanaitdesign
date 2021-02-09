@@ -480,6 +480,10 @@ video {
    font-family: "Montserrat";
  }
 
+ .navbar button {
+   text-align: right;
+ }
+
  .navbar-toggler {
    text-align: right !important;
    padding: 1% !important;
