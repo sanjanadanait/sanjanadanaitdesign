@@ -467,6 +467,7 @@ video {
 
  .navbar-brand {
    padding-left: 0 !important;
+   text-align: left !important;
  }
 
  .nav-link {
@@ -478,6 +479,12 @@ video {
    padding: 1% !important;
    height: 60px;
    width: 60px;
+   text-align: right !important;
+ }
+  
+  .navbar-toggler-icon {
+   height: 50px;
+   width: 50px;
  }
 
   #title .container-fluid {
