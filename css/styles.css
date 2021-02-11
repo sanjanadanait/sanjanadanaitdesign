@@ -412,6 +412,10 @@ video {
   p {
     font-size: 2rem;
   }
+  
+  em {
+    font-size: 2rem;
+  }
 
   a {
     font: 2rem;
